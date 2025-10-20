@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: learn-astrology
+    name: Shadow-Proxy-Browser
     env: node
     plan: free
-    startCommand: npm install && npm start
+    startCommand: npm install && node index.js
