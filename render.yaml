@@ -3,4 +3,4 @@
     name: Shadow-Proxy-Browser
     env: node
     plan: free
-    startCommand: npm install && node index.js
+    startCommand: npm install && npm start
