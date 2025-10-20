@@ -1,5 +1,5 @@
 
-# Shadow Browser V3
+# Shadow Proxy Browser V3
 **ShadowV3** is a fast and feature-rich tab proxy designed with performance and user experience at its core. Finding proxies with smooth, functional tabs can be challenging, but we make it effortless. **THE BEST TABBED PROXY.**
 
 ---
@@ -40,6 +40,4 @@
 - [NotPeak](https://github.com/NottPeak)｜Developer
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)｜Proxy
 - [Dynamic](https://github.com/NebulaServices/Dynamic)｜Proxy
-
-# [Join the Discord](https://discord.gg/goshadow)
 

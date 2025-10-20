@@ -1,5 +1,5 @@
 {
-  "name": "shadow",
+  "name": "shadow-proxy-browser",
   "version": "3.2.1",
   "description": "Shadow proxy",
   "type": "module",
